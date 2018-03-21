@@ -1,1 +1,1 @@
-# Style guide for Android Studio
+# Style guide for Android Studio and IntelliJ
