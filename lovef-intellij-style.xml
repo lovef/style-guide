@@ -1,0 +1,14 @@
+<code_scheme name="LoveF IntelliJ Style" version="173">
+  <option name="LINE_SEPARATOR" value="&#xA;" />
+  <option name="JD_ADD_BLANK_AFTER_DESCRIPTION" value="false" />
+  <JavaCodeStyleSettings>
+    <option name="JD_ADD_BLANK_AFTER_DESCRIPTION" value="false" />
+  </JavaCodeStyleSettings>
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
+  <codeStyleSettings language="kotlin">
+    <option name="METHOD_ANNOTATION_WRAP" value="1" />
+    <option name="FIELD_ANNOTATION_WRAP" value="1" />
+  </codeStyleSettings>
+</code_scheme>
