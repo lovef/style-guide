@@ -1,4 +1,4 @@
-<code_scheme name="LoveF Android Studio Style">
+<code_scheme name="LoveF Android Studio Style" version="173">
   <option name="LINE_SEPARATOR" value="&#xA;" />
   <option name="INSERT_INNER_CLASS_IMPORTS" value="true" />
   <option name="JD_ADD_BLANK_AFTER_DESCRIPTION" value="false" />
@@ -52,8 +52,6 @@
   </codeStyleSettings>
   <codeStyleSettings language="kotlin">
     <option name="CALL_PARAMETERS_WRAP" value="5" />
-    <option name="CALL_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
-    <option name="CALL_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
     <option name="METHOD_PARAMETERS_WRAP" value="5" />
     <option name="METHOD_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
     <option name="METHOD_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
